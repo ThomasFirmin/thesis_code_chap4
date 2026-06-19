@@ -13,7 +13,7 @@ Chapter 4 describes a generalization of a family of algorithms, based on a hiera
 
 ## Content
 
-The compressed file _coco_data.zip_ contains the results from benchmarking of 12 algorithms on [COCO](https://numbbo.github.io/coco/) and intantiated with [Zellij](https://gitlab.cristal.univ-lille.fr/tfirmin/thesis_code_chap6):
+The compressed file _coco_data.zip_ contains the results from benchmarking of 12 algorithms on [COCO](https://numbbo.github.io/coco/) and intantiated with [Zellij](https://github.com/ThomasFirmin/thesis_code_chap6):
 * DIRECT-based
     * DIRECT
     * DIRECT-L
